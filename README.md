@@ -3,8 +3,10 @@
 
 my First C horrible text game
 
-compile
+compile:
+
 gcc game.c -o game
 
-run game
+run game:
+
 ./game

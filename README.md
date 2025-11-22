@@ -1,7 +1,7 @@
 # C_Game
 
 
-my First C horrible text game
+my First horrible C text game
 
 compile:
 
